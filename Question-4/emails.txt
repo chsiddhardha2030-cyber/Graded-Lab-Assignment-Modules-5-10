@@ -1,0 +1,8 @@
+user1@gmail.com
+user2@yahoo.com
+invalid-email@
+john123@company.com
+john123@company.com
+abc@site
+test99@test.com
+hello.world@gmail.com
