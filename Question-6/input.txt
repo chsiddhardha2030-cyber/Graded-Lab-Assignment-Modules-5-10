@@ -1,0 +1,4 @@
+Linux scripting is powerful and efficient
+Shell scripts help automate repetitive tasks
+Learning command line tools improves productivity
+Linux linux shell Shell scripting
