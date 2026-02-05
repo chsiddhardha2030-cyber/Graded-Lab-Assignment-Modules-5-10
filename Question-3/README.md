@@ -28,5 +28,4 @@ The script reads data from marks.txt, prints students who failed in exactly one 
 Conclusion
 The validate_results.sh script successfully processes student result data, correctly categorizes students based on their performance, and fulfills all the requirements specified in the problem statement.
 
-Conclusion
-The validate_results.sh script successfully processes student result data, correctly categorizes students based on their performance, and fulfills all the requirements specified in the problem statement.
+
